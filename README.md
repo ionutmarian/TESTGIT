@@ -1,2 +1,3 @@
 # TESTGIT
-testate GIT 
+testare GIT 
+Invatam pana iese fum :)
